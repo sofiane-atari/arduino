@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Libraries\\the end"
+		},
+		{
+			"path": "..\\Week2\\Project\\SimonSays"
+		},
+		{
+			"path": "..\\Week3\\Project\\Nim"
+		},
+		{
+			"path": "..\\Week1\\Project\\Morse_trainer"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.associations": {
+			"potentio.h": "c",
+			"timer.h": "c",
+			"led.h": "c",
+			"buzzer.h": "c",
+			"button.h": "c",
+			"display.h": "c",
+			"io.h": "c",
+			"delay.h": "c",
+			"usart.h": "c",
+			"string.h": "c",
+			"stdlib.h": "c",
+			"interrupt.h": "c"
+		}
+	}
+}
